@@ -5,14 +5,14 @@
 - Responsive
 - Allows user registration and login
 - Supports purchase simulation
-- Contains different user interfaces based on role (user, operator, admin)
+- Contains different user interfaces based on role (user or admin)
 - Communicates with an own RESTful API built with Spring Boot
 
 ### Español
 - Responsive
 - Permite el registro y la conexión de los usuarios a sus cuentas
 - Ofrece la simulación de una compra
-- Contiene distintas interfaces de usuario según su rol (usuario, operario, admin)
+- Contiene distintas interfaces de usuario según su rol (usuario o admin)
 - Se comunica con una API RESTful propia hecha con Springboot
 
 ## Introduction / Introducción
