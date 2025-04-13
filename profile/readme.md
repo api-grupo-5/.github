@@ -1,4 +1,4 @@
-# eCommerce 
+# IT eCommerce 
 ## Features / Funcionalidades
 
 ### English
