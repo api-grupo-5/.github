@@ -13,7 +13,7 @@
 - Permite el registro y la conexión de los usuarios a sus cuentas
 - Ofrece la simulación de una compra
 - Contiene distintas interfaces de usuario según su rol (usuario o admin)
-- Se comunica con una API RESTful propia hecha con Springboot
+- Se comunica con una API RESTful propia hecha con Spring Boot
 
 ## Introduction / Introducción
 ### English
