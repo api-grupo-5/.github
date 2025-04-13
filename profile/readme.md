@@ -1,4 +1,4 @@
-# TecnoExpress, an IT eCommerce store
+# TecnoExpress
 ## Features / Funcionalidades
 
 ### English
