@@ -1,4 +1,4 @@
-# IT eCommerce 
+# TecnoExpress - IT eCommerce 
 ## Features / Funcionalidades
 
 ### English
